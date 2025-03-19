@@ -1,0 +1,2 @@
+# fryday
+virtual assitanat
